@@ -5,6 +5,6 @@ x         Shorthand for "x => x."
 ps        Shorthand for "protected static "
 it        Start an "It" statement
 est       Start an "Establish" statement
-dis       Disable three warnings most often seen in Mspec files
+dis       Disable two warnings most often seen in Mspec files
 bec       Start a "Because" statement
 spec      Create a new Spec class
