@@ -1,1 +1,10 @@
 This is my DotSettings file to help make creating MSpec files faster and easier with ReSharper.
+
+TEMPLATE  ACTION
+x         Shorthand for "x => x."
+ps        Shorthand for "protected static "
+it        Start an "It" statement
+est       Start an "Establish" statement
+dis       Disable two warnings most often seen in Mspec files
+bec       Start a "Because" statement
+spec      Create a new Spec class
