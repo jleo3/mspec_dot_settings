@@ -15,7 +15,7 @@ spec      Create a new Spec class
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/Shortcut/@EntryValue">bec</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/Description/@EntryValue">Because of</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/Text/@EntryValue">private Because of = () =&gt; $END$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/Text/@EntryValue">Because of = () =&gt; $END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/Categories/=Imported_00209_002F10_002F2012/@EntryIndexedValue">Imported 9/10/2012</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=882690C730F7C941AF6D15172E8968EA/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
@@ -67,7 +67,7 @@ spec      Create a new Spec class
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=516023E526E28A4698A51BB7E4B72DF4/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=516023E526E28A4698A51BB7E4B72DF4/Shortcut/@EntryValue">est</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=516023E526E28A4698A51BB7E4B72DF4/Description/@EntryValue">Establish context</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=516023E526E28A4698A51BB7E4B72DF4/Text/@EntryValue">private Establish context = () =&gt; &#xD;
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=516023E526E28A4698A51BB7E4B72DF4/Text/@EntryValue">Establish context = () =&gt; &#xD;
 	{&#xD;
 		$END$&#xD;
 	};</s:String>
@@ -80,7 +80,7 @@ spec      Create a new Spec class
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/Shortcut/@EntryValue">it</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/Description/@EntryValue">It will</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/Text/@EntryValue">private It will_$BEHAVIOR$ = () =&gt; $END$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/Text/@EntryValue">It will_$BEHAVIOR$ = () =&gt; $END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/Categories/=Imported_00209_002F10_002F2012/@EntryIndexedValue">Imported 9/10/2012</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D35732026635674FA524C1CC538D3F28/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
